@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arukari-paint.github.io/kigen-plus/sitemap.xml
