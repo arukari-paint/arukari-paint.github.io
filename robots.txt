@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://arukari-paint.github.io/sitemap.xml
 Sitemap: https://arukari-paint.github.io/kigen-plus/sitemap.xml
+Sitemap: https://arukari-paint.github.io/toailo/sitemap-index.xml
